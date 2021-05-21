@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item android:id="@+id/option_normal_1"
+            android:icon="@mipmap/down"
+            android:title="下载"
+            app:showAsAction="ifRoom"/>
+
+        <item android:id="@+id/option_normal_2"
+            android:icon="@mipmap/fangdajing"
+            android:title="放大镜"
+            app:showAsAction="always"/>
+        <item android:id="@+id/option_normal_3"
+        android:icon="@mipmap/more"
+        android:title="更多"
+        app:showAsAction="always"/>
+
+
+    </menu>
+
+
+
